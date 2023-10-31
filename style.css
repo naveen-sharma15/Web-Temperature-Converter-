@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.by{
+    
+    background: linear-gradient(to bottom right, #38A2D7, #561139);
+    /* background: linear-gradient(45deg,#09203F,#537895); */
+}
